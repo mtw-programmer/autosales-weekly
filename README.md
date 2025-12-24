@@ -2,9 +2,11 @@ Python script, that automatically creates weekly reports from csv.
 
 ## Setup
 
+```sh
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
+```
 
 ## CSV structure
 
