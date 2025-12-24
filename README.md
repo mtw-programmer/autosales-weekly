@@ -1,4 +1,5 @@
 Python script, that automatically creates weekly reports from csv.
+This is a personal project to practice automating e-commerce reports with Python. Not a production-ready tool.
 
 ## Setup
 
