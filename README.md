@@ -12,4 +12,4 @@ order_id,date,product_name,quantity,price
 
 ## Report content
 
-Generation date, Orders count, Total revenue, Avg order valueW
+Generation date, Orders count, Total revenue, Avg order value, Top products chart, Daily revenue chart
