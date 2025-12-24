@@ -11,6 +11,12 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
+## Run
+
+```sh
+python main.py
+```
+
 ## CSV structure
 
 order_id,date,product_name,quantity,price
