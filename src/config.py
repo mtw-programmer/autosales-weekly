@@ -1,0 +1,3 @@
+REPORT_TITLE = "Weekly Sales Report"
+CURRENCY = "PLN"
+TOP_PRODUCTS_LIMIT = 5
